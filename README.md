@@ -1,7 +1,3 @@
-Here’s a **complete GitHub-ready README.md** for your project — structured, professional, and ready to paste 🚀
-
----
-
 # 🧠 MAS Fitness & Diet Agentic System
 
 > **AI-powered multi-agent system for personalized fitness and diet planning**
@@ -199,27 +195,6 @@ The system generates a **professional health report**:
 
 ---
 
-## 🚀 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/mas-fitness-diet.git
-
-# Navigate to project folder
-cd mas-fitness-diet
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Usage
-
-```bash
-python main.py
-```
-
 * Enter user details
 * System generates:
 
@@ -283,14 +258,6 @@ git commit -m "Added new feature"
 git push origin feature-name
 ```
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 🧾 Conclusion
 
 This project demonstrates how **AI + Multi-Agent Systems + Nutrition Science** can create a **complete personalized fitness ecosystem**.
@@ -302,18 +269,6 @@ It provides:
 * Real-world applicability
 
 ---
-
-## ⭐ Support
-
-If you like this project:
-
-⭐ Star this repo
-🍴 Fork it
-📢 Share it
-
----
-
-If you want next upgrade, I can:
 
 * Add **badges (GitHub, Python, License, etc.)**
 * Create **demo screenshots / UI mock**
