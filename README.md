@@ -204,34 +204,6 @@ The system generates a **professional health report**:
 
 ---
 
-## 📁 Project Structure
-
-```
-mas-fitness-diet/
-│
-├── agents/
-│   ├── doctor_agent.py
-│   ├── dietitian_agent.py
-│   ├── nutritionist_agent.py
-│   ├── fitness_agent.py
-│
-├── rag/
-│   ├── vector_store.py
-│   ├── knowledge_base/
-│
-├── workflow/
-│   ├── graph.py
-│
-├── pdf/
-│   ├── report_generator.py
-│
-├── main.py
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 🎯 Future Improvements
 
 * 📱 Web / Mobile App Integration
@@ -242,22 +214,6 @@ mas-fitness-diet/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-```bash
-# Fork the repo
-# Create a new branch
-git checkout -b feature-name
-
-# Commit changes
-git commit -m "Added new feature"
-
-# Push
-git push origin feature-name
-```
-
 ## 🧾 Conclusion
 
 This project demonstrates how **AI + Multi-Agent Systems + Nutrition Science** can create a **complete personalized fitness ecosystem**.
@@ -267,9 +223,3 @@ It provides:
 * Intelligent decision-making
 * Personalized plans
 * Real-world applicability
-
----
-
-* Add **badges (GitHub, Python, License, etc.)**
-* Create **demo screenshots / UI mock**
-* Write **LinkedIn project post 🚀**
